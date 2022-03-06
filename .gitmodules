@@ -1,3 +1,12 @@
-[submodule "contracts/lib/ds-test"]
-	path = contracts/lib/ds-test
+[submodule "foundry/lib/openzeppelin-contracts"]
+	path = foundry/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "foundry/lib/solidity-mocks"]
+	path = foundry/lib/solidity-mocks
+  url = https://github.com/thingtheory/solidity-mocks
+[submodule "foundry/lib/solidity-interfaces"]
+	path = foundry/lib/solidity-interfaces
+	url = https://github.com/thingtheory/solidity-interfaces
+[submodule "foundry/lib/ds-test"]
+	path = foundry/lib/ds-test
 	url = https://github.com/dapphub/ds-test
